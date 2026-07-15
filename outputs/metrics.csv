@@ -1,0 +1,2 @@
+learning_rate,train_size,test_size,epochs_run,converged,converged_epoch,final_weight_1,final_weight_2,final_weight_3,final_weight_4,final_bias,accuracy,precision,recall,f1_score,true_negative,false_positive,false_negative,true_positive
+0.01,1098,274,100,False,100,-0.24976785625076722,-0.26547979041086067,-0.23515302618484746,-0.021209457287426396,-0.12999999999999998,0.9781021897810219,0.984,0.968503937007874,0.976190476190476,145,2,4,123
