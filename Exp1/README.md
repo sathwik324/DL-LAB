@@ -77,10 +77,10 @@ generated plot are available in `report`.
 
 The model is trained using the classical rule (Rosenblatt, 1958):
 
-```
+
 w ← w + η (y − ŷ) x
 b ← b + η (y − ŷ)
-```
+
 
 where `ŷ = step(w·x + b)` and `step(z) = 1 if z ≥ 0 else 0`.
 
