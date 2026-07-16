@@ -1,0 +1,13 @@
+# Cache folders
+__pycache__/
+*.pyc
+
+# Local runtime assets
+.ipynb_checkpoints/
+.virtualenv/
+venv/
+.env
+
+# Large raw archives (if generated locally)
+*.zip
+*.tar.gz

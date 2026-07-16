@@ -1,0 +1,6 @@
+Metric,Baseline,Optimized
+Accuracy,0.8722,0.876
+Precision (macro),0.8755,0.8788
+Recall (macro),0.8722,0.876
+F1-score (macro),0.8725,0.8763
+Epochs Trained,20.0,30.0
