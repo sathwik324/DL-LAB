@@ -12,6 +12,7 @@ This repository contains the source code, datasets, evaluation reports, and visu
 | Week / Exp | Experiment Title | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **Experiment 1** | Single Layer Perceptron for Binary Classification | Completed | [View Folder](./Exp1/) |
+| **Experiment 2** | Multi Layer Perceptron for multi image classification | Completed | [View Folder](./Exp2/) |
 
 
 ## Global Execution Environment
