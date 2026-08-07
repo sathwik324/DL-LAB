@@ -13,7 +13,9 @@ This repository contains the source code, datasets, evaluation reports, and visu
 | :--- | :--- | :--- | :--- |
 | **Experiment 1** | Single Layer Perceptron for Binary Classification | Completed | [View Folder](./Exp1/) |
 | **Experiment 2** | Multi Layer Perceptron for multi image classification | Completed | [View Folder](./Exp2/) |
-| **Experiment 3** | Logic gate problems for SLP/MLP | Completed | [View Folder](./Exp3/) |
+| **Experiment 3** | Logic gate problems for SLP/MLP | Completed | [View Folder](./Exp4/) |
+| **Experiment 4** | Implementation of Convolutional Neural Networks (CNNs) for Image Classification | Completed | [View Folder](./Exp5/) |
+| **Experiment 5** | Comparative Study of Deep Convolutional Neural Network Architectures Using Transfer Learning | Completed | [View Folder](./Exp6/) |
 
 ## Global Execution Environment
 To install the required base dependencies across all lab modules:
