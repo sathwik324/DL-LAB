@@ -16,8 +16,7 @@ This repository contains the source code, datasets, evaluation reports, and visu
 | **Experiment 3** | Logic gate problems for SLP/MLP | Completed | [View Folder](./Exp4/) |
 | **Experiment 4** | Implementation of Convolutional Neural Networks (CNNs) for Image Classification | Completed | [View Folder](./Exp4/) |
 | **Experiment 5** | Comparative Study of Deep Convolutional Neural Network Architectures Using Transfer Learning | Completed | [View Folder](./Exp5/) |
-| **Experiment 6** | Comprehensive Study of CNN Training, Regularization, Optimization,
-Hyperparameter Tuning, Transfer Learning and Cross-Validation| Completed | [View Folder](./Exp6/) |
+| **Experiment 6** | Comprehensive Study of CNN Training, Regularization, Optimization,Hyperparameter Tuning, Transfer Learning and Cross-Validation| Completed | [View Folder](./Exp6/) |
 
 ## Global Execution Environment
 To install the required base dependencies across all lab modules:
