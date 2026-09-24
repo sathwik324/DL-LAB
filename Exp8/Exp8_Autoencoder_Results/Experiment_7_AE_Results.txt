@@ -1,0 +1,37 @@
+=== TABLE 1: RECONSTRUCTION COMPARISON (Section 11) ===
+Model                     | MSE        | MAE        | SSIM       | Parameters
+---------------------------------------------------------------------------
+Fully Connected AE        | 0.0213     | 0.0568     | 0.7463     | 211040    
+Convolutional AE          | 0.0025     | 0.0147     | 0.9750     | 74497     
+Denoising CAE             | 0.0045     | 0.0208     | 0.9460     | 74497     
+
+=== TABLE 2: NOISE LEVEL vs RECONSTRUCTION (Section 14) ===
+Noise Level     | MSE        | MAE        | SSIM      
+-------------------------------------------------------
+0.1             | 0.0035     | 0.0174     | 0.9598    
+0.2             | 0.0045     | 0.0208     | 0.9458    
+0.3             | 0.0068     | 0.0281     | 0.8846    
+
+=== TABLE 3: VAE METRICS (Section 21) ===
+Reconstruction Loss : 161.4397
+KL Loss             : 5.3992
+Total Loss          : 166.8389
+Test MSE            : 0.0492
+Test MAE            : 0.1151
+Mean SSIM           : 0.3993
+
+=== TABLE 4: LATENT DIMENSION STUDY (Section 27) ===
+Latent Dimension     | MSE        | SSIM       | Parameters
+------------------------------------------------------------
+2                    | 0.0564     | 0.3125     | 210130    
+8                    | 0.0332     | 0.6161     | 210520    
+16                   | 0.0276     | 0.6679     | 211040    
+32                   | 0.0238     | 0.7103     | 212080    
+
+=== TABLE 5: CONSOLIDATED RESULTS (Section 25) ===
+Model                     | MSE        | MAE        | SSIM       | Parameters      | Time (s)  
+------------------------------------------------------------------------------------------
+FC Autoencoder            | 0.0213     | 0.0568     | 0.7463     | 211040          | 12.16     
+Conv. Autoencoder         | 0.0025     | 0.0147     | 0.9750     | 74497           | 21.16     
+Denoising CAE             | 0.0045     | 0.0208     | 0.9460     | 74497           | 18.54     
+VAE                       | 0.0492     | 0.1151     | 0.3993     | 134165          | 22.85     
