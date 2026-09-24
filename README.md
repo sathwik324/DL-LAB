@@ -17,7 +17,8 @@ This repository contains the source code, datasets, evaluation reports, and visu
 | **Experiment 4** | Implementation of Convolutional Neural Networks (CNNs) for Image Classification | Completed | [View Folder](./Exp4/) |
 | **Experiment 5** | Comparative Study of Deep Convolutional Neural Network Architectures Using Transfer Learning | Completed | [View Folder](./Exp5/) |
 | **Experiment 6** | Comprehensive Study of CNN Training, Regularization, Optimization,Hyperparameter Tuning, Transfer Learning and Cross-Validation| Completed | [View Folder](./Exp6/) |
-
+| **Experiment 7** | End-to-End Study of RNN, LSTM and GRU for Sequence Learning and Video Understanding | Completed | [View Folder](./Exp7/) |
+| **Experiment 8** | End-to-End Study of Autoencoders, Convolutional Autoencoders, Denoising Autoencoders and Variational Autoencoders | Completed | [View Folder](./Exp8/) |
 ## Global Execution Environment
 To install the required base dependencies across all lab modules:
 ```bash
