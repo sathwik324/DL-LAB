@@ -19,6 +19,7 @@ This repository contains the source code, datasets, evaluation reports, and visu
 | **Experiment 6** | Comprehensive Study of CNN Training, Regularization, Optimization,Hyperparameter Tuning, Transfer Learning and Cross-Validation| Completed | [View Folder](./Exp6/) |
 | **Experiment 7** | End-to-End Study of RNN, LSTM and GRU for Sequence Learning and Video Understanding | Completed | [View Folder](./Exp7/) |
 | **Experiment 8** | End-to-End Study of Autoencoders, Convolutional Autoencoders, Denoising Autoencoders and Variational Autoencoders | Completed | [View Folder](./Exp8/) |
+| **Experiment 9** |Effect of Attention Type and Attention Position in a Pretrained ResNet50 | Completed | [View Folder](./Exp9/) |
 ## Global Execution Environment
 To install the required base dependencies across all lab modules:
 ```bash
